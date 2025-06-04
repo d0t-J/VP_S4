@@ -97,11 +97,9 @@
             btn_Name3.BackColor = Color.SlateGray;
             btn_Name3.Dock = DockStyle.Fill;
             btn_Name3.Enabled = false;
-<<<<<<< HEAD
             btn_Name3.Font = new Font("Segoe UI", 8.25F);
-=======
             btn_Name3.Font = new Font("Segoe UI Emoji", 9.75F);
->>>>>>> 33fddbe52558e8b199e9333da0e4a48e023ba183
+
             btn_Name3.ForeColor = Color.White;
             btn_Name3.Location = new Point(403, 3);
             btn_Name3.Name = "btn_Name3";
@@ -115,11 +113,10 @@
             btn_Name2.BackColor = Color.SlateGray;
             btn_Name2.Dock = DockStyle.Fill;
             btn_Name2.Enabled = false;
-<<<<<<< HEAD
+
             btn_Name2.Font = new Font("Segoe UI", 8.25F);
-=======
+
             btn_Name2.Font = new Font("Segoe UI Emoji", 9.75F);
->>>>>>> 33fddbe52558e8b199e9333da0e4a48e023ba183
             btn_Name2.ForeColor = Color.White;
             btn_Name2.Location = new Point(203, 3);
             btn_Name2.Name = "btn_Name2";
@@ -133,11 +130,10 @@
             btn_Name1.BackColor = Color.SlateGray;
             btn_Name1.Dock = DockStyle.Fill;
             btn_Name1.Enabled = false;
-<<<<<<< HEAD
+
             btn_Name1.Font = new Font("Segoe UI", 8.25F);
-=======
+
             btn_Name1.Font = new Font("Segoe UI Emoji", 9.75F);
->>>>>>> 33fddbe52558e8b199e9333da0e4a48e023ba183
             btn_Name1.ForeColor = Color.White;
             btn_Name1.Location = new Point(3, 3);
             btn_Name1.Name = "btn_Name1";
