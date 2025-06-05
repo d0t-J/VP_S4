@@ -3,7 +3,6 @@ D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management Sy
 D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
 D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
 D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
-D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
 D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
 D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
 D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
@@ -44,3 +43,4 @@ C:\Users\Z\Desktop\Dum\VP_S4\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFor
 C:\Users\Z\Desktop\Dum\VP_S4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\Z\Desktop\Dum\VP_S4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\Z\Desktop\Dum\VP_S4\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\W\UAF\4th Sem\[CS-412] Visual Programming\P\Assignment\Pharmacy Management System\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form_PMS.resources

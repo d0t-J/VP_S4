@@ -80,9 +80,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\PMS.csproj",
+      "projectName": "PMS",
+      "projectPath": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\PMS.csproj",
       "packagesPath": "C:\\Users\\Z\\.nuget\\packages\\",
       "outputPath": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
