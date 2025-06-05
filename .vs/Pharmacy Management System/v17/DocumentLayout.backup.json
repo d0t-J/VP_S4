@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\PMS.csproj|d:\\w\\uaf\\4th sem\\[cs-412] visual programming\\p\\assignment\\pharmacy management system\\winformsapp1\\pms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\PMS.csproj|solutionrelative:winformsapp1\\pms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\PMS.csproj|d:\\w\\uaf\\4th sem\\[cs-412] visual programming\\p\\assignment\\pharmacy management system\\winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\PMS.csproj|solutionrelative:winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\WinFormsApp1.csproj|d:\\w\\uaf\\4th sem\\[cs-412] visual programming\\p\\assignment\\pharmacy management system\\winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\WinFormsApp1.csproj|d:\\w\\uaf\\4th sem\\[cs-412] visual programming\\p\\assignment\\pharmacy management system\\winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\PMS.csproj|d:\\w\\uaf\\4th sem\\[cs-412] visual programming\\p\\assignment\\pharmacy management system\\winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD3D2280-B91D-41E2-982A-8E09F2228418}|WinFormsApp1\\PMS.csproj|solutionrelative:winformsapp1\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,31 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PMS",
-              "DocumentMoniker": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\PMS.csproj",
-              "RelativeDocumentMoniker": "WinFormsApp1\\PMS.csproj",
-              "ToolTip": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\PMS.csproj",
-              "RelativeToolTip": "WinFormsApp1\\PMS.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T19:51:54.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "PharmacistForm.cs",
               "DocumentMoniker": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\PharmacistForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\PharmacistForm.cs",
               "ToolTip": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\PharmacistForm.cs",
               "RelativeToolTip": "WinFormsApp1\\PharmacistForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T19:06:51.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PharmacistForm.cs [Design]",
               "DocumentMoniker": "D:\\W\\UAF\\4th Sem\\[CS-412] Visual Programming\\P\\Assignment\\Pharmacy Management System\\WinFormsApp1\\PharmacistForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\PharmacistForm.cs",
